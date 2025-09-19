@@ -1,4 +1,6 @@
 # 💫 About Me:
+<div style="background-color:#0d1117; padding:20px; border-radius:12px; color:white;">
+
 🧑🏻‍💼 Young Professional & CSE Undergrad <br>  
 🔭 Exploring the world of coding & technology 🤖 <br>  
 👯 Open to collaborating on hackathons & innovative projects <br>  
@@ -6,6 +8,8 @@
 🌱 Currently learning how to turn ☕ into clean, efficient code <br>  
 💬 Ask me about turning bugs into features 🐛 <br>  
 ⚡ Fun fact: My Git commits tell a better story than my diary ✨  
+
+</div>
 
 ---
 
@@ -17,6 +21,8 @@
 ---
 
 # 💻 Tech Stack:
+<div style="background-color:#0d1117; padding:20px; border-radius:12px;">
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
@@ -26,6 +32,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)  
+
+</div>
 
 ---
 
