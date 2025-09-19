@@ -1,3 +1,6 @@
+<!-- Top Banner -->
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Ashwin%20C%20B&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
 # 💫 About Me:
 <div style="background-color:#0d1117; padding:20px; border-radius:12px; color:white;">
 
@@ -67,5 +70,8 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ashwinbelgiofficial&icon=0&color=0)](https://visitcount.itsvg.in)  
+
+<!-- Footer Banner -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
