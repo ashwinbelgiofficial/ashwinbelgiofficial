@@ -55,11 +55,12 @@
 ---
 
 ### ✍ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=001F54&text_color=00BFFF)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&combine_color=001F54&text_color=00BFFF)
 
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashwinbelgiofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ashwinbelgiofficial&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
 
 ---
 
