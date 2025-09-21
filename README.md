@@ -4,7 +4,7 @@
 
 
 # 💫 About Me
-<div style="border: 2px solid #001F54; padding: 10px; border-radius: 8px;">
+<div style="border: 2px solid #00BFFF; padding: 10px; border-radius: 8px;">
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/ashwinbelgiofficial" width="160" style="border-radius:50%; border:4px solid #00BFFF;" /><br>
