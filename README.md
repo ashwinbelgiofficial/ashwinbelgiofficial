@@ -9,11 +9,17 @@
 
 <p align="center">
 🧑🏻‍💼 <b>Young Professional</b><br>
+  
 🔭 CSE undergrad exploring coding & technology 🤖<br>
+
 👯 Open to hackathons & innovative projects<br>
+
 🤝 Seeking guidance on advanced coding practices 🧑‍💻<br>
+
 🌱 Learning how to turn ☕ into clean, efficient code<br>
-⚡ Fun fact: My Git commits tell a better story than my diary ✨  
+
+⚡ Fun fact: My Git commits tell a better story than my diary ✨ 
+
 </p>
 
 ---
