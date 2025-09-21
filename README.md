@@ -10,10 +10,15 @@
 <td>
   
 🧑🏻‍💼 *Young Professional*  
+
 🔭 CSE undergrad exploring coding & technology 🤖  
-👯 Open to hackathons & innovative projects  
+
+👯 Open to hackathons & innovative projects
+
 🤝 Seeking guidance on advanced coding practices 🧑‍💻  
+
 🌱 Learning how to turn ☕ into clean, efficient code  
+
 ⚡ Fun fact: My Git commits tell a better story than my diary ✨  
 
 </td>
