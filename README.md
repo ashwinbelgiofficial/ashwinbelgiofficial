@@ -7,7 +7,6 @@
   <img src="https://avatars.githubusercontent.com/ashwinbelgiofficial" width="160" style="border-radius:50%; border:4px solid #00BFFF;" />
 </p>
 
-<p align="center">
 🧑🏻‍💼 <b>Young Professional</b><br>
   
 🔭 CSE undergrad exploring coding & technology 🤖<br>
@@ -20,7 +19,6 @@
 
 ⚡ Fun fact: My Git commits tell a better story than my diary ✨ 
 
-</p>
 
 ---
 
