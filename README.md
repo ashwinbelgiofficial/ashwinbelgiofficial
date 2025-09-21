@@ -1,4 +1,4 @@
-!-- Clean Dark Blue Banner -->
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=001F54&height=200&section=header&fontColor=00BFFF)
 
 
