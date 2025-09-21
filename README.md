@@ -11,17 +11,17 @@
   <b>Ashwin C B</b><br>
 </p>
 
-🧑🏻‍💼Young Professional<br>
+.🧑🏻‍💼Young Professional<br>
   
-🔭 CSE undergrad exploring coding & technology 🤖<br>
+.🔭 CSE undergrad exploring coding & technology 🤖<br>
 
-👯 Open to hackathons & innovative projects<br>
+.👯 Open to hackathons & innovative projects<br>
 
-🤝 Seeking guidance on advanced coding practices 🧑‍💻<br>
+.🤝 Seeking guidance on advanced coding practices 🧑‍💻<br>
 
-🌱 Learning how to turn ☕ into clean, efficient code<br>
+.🌱 Learning how to turn ☕ into clean, efficient code<br>
 
-⚡ Fun fact: My Git commits tell a better story than my diary ✨ 
+.⚡ Fun fact: My Git commits tell a better story than my diary ✨ 
 
 </div>
 
