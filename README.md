@@ -3,9 +3,8 @@
 
 
 # 💫 About Me
-<div style="padding: 20px; border-radius: 12px; color: #0077B6;">
 
-
+<span style="color:#001F54; font-weight:bold; font-size:16px;">
 <p align="center">
   <img src="https://avatars.githubusercontent.com/ashwinbelgiofficial" width="160" style="border-radius:50%; border:4px solid #00BFFF;" /><br>
   <b>Ashwin C B</b><br>
@@ -22,7 +21,9 @@
 🌱 Learning how to turn ☕ into clean, efficient code<br>
 
 ⚡ Fun fact: My Git commits tell a better story than my diary ✨ 
-</div>
+
+</span>
+
 
 ---
 
