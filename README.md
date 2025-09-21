@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=03045E&height=200&section=header&fontColor=00BFFF)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=03045E&height=200&section=header&fontColor=0096C7)
 
 
 # 💫 About Me
