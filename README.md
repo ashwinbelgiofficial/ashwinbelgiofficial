@@ -2,11 +2,17 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Ashwin%20C%20B&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=40)
 
 # 💫 About Me
+
 🧑🏻‍💼 Young Professional  
+
 🔭 CSE undergrad exploring coding & technology 🤖  
+
 👯 Open to hackathons & innovative projects  
+
 🤝 Seeking guidance on advanced coding practices 🧑‍💻  
+
 🌱 Learning how to turn ☕ into clean, efficient code  
+
 ⚡ Fun fact: My Git commits tell a better story than my diary ✨  
 
 ---
