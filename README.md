@@ -1,6 +1,6 @@
+!-- Clean Dark Blue Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=001F54&height=200&section=header&fontColor=00BFFF)
 
-<!-- Header Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=001F54&height=200&section=header&text=Ashwin%20C%20B&fontSize=50&fontColor=00BFFF&animation=fadeIn&fontAlignY=40)
 
 # 💫 About Me
 <p align="center">
