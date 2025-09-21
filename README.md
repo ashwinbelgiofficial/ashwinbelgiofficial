@@ -4,8 +4,8 @@
 # 💫 About Me:
 <div style="background-color:#0d1117; padding:20px; border-radius:12px; color:white;">
 
-🧑🏻‍💼 Young Professional & CSE Undergrad <br>  
-🔭 Exploring the world of coding & technology 🤖 <br>  
+🧑🏻‍💼 Young Professional <br>  
+🔭CSE undergrand exploring the world of coding & technology 🤖 <br>  
 👯 Open to collaborating on hackathons & innovative projects <br>  
 🤝 Looking for guidance on advanced coding practices 🧑‍💻 <br>  
 🌱 Currently learning how to turn ☕ into clean, efficient code <br>  
