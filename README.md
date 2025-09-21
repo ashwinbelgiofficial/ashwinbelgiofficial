@@ -3,7 +3,8 @@
 
 
 # 💫 About Me
-<div padding:40px; border-radius:12px; color:001F54;">
+<div style="padding: 40px; border-radius: 12px; color: #001F54;">
+
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/ashwinbelgiofficial" width="160" style="border-radius:50%; border:4px solid #00BFFF;" /><br>
