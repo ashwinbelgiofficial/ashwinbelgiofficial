@@ -50,12 +50,12 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashwinbelgiofficial&theme=algolia&no-frame=true&margin-w=15&column=5)
+![](https://github-profile-trophy.vercel.app/?username=ashwinbelgiofficial&theme=dark&title-frame=true&margin-w=15&column=5)
 
 ---
 
 ### ✍ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&combine_color=001F54&text_color=00BFFF)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&title_color=001F54&text_color=00BFFF)
 
 ---
 ### 🔝 Top Contributed Repo
