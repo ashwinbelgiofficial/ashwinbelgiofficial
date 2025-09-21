@@ -2,9 +2,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=200&section=header&fontColor=0096C7)
 
 
-# 💫 About Me
 
-<span style="color:001F54; font-weight:bold; font-size:16px;">
+# 💫 About Me
+<div style="border: 2px solid #001F54; padding: 10px; border-radius: 8px;">
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/ashwinbelgiofficial" width="160" style="border-radius:50%; border:4px solid #00BFFF;" /><br>
   <b>Ashwin C B</b><br>
@@ -22,7 +23,7 @@
 
 ⚡ Fun fact: My Git commits tell a better story than my diary ✨ 
 
-</span>
+</div>
 
 
 ---
@@ -50,12 +51,12 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashwinbelgiofficial&theme=dark&title-frame=true&margin-w=15&column=5)
+![](https://github-profile-trophy.vercel.app/?username=ashwinbelgiofficial&theme=algolia&combine-frame=true&margin-w=15&column=5)
 
 ---
 
 ### ✍ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&title_color=001F54&text_color=00BFFF)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&combine_color=001F54&text_color=00BFFF)
 
 ---
 ### 🔝 Top Contributed Repo
