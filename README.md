@@ -67,4 +67,4 @@
 [![](https://visitcount.itsvg.in/api?id=ashwinbelgiofficial&icon=3&color=001F54)](https://visitcount.itsvg.in)
 
 <!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=120&section=footer&fontColor=00BFFF)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer&fontColor=00BFFF)
