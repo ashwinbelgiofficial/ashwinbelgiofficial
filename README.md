@@ -21,7 +21,7 @@
 🌱 Learning how to turn ☕ into clean, efficient code<br>
 
 ⚡ Fun fact: My Git commits tell a better story than my diary ✨ 
-
+</div>
 
 ---
 
