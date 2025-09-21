@@ -1,10 +1,10 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=200&section=header&fontColor=00BFFF)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=001F54&height=200&section=header&fontColor=00BFFF)
 
 
 # 💫 About Me
 
-<span style="color:#001F54; font-weight:bold; font-size:16px;">
+<span style="color:001F54; font-weight:bold; font-size:16px;">
 <p align="center">
   <img src="https://avatars.githubusercontent.com/ashwinbelgiofficial" width="160" style="border-radius:50%; border:4px solid #00BFFF;" /><br>
   <b>Ashwin C B</b><br>
