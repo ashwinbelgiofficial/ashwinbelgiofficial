@@ -5,9 +5,10 @@
 # 💫 About Me
 <p align="center">
   <img src="https://avatars.githubusercontent.com/ashwinbelgiofficial" width="160" style="border-radius:50%; border:4px solid #00BFFF;" />
+  <b>Ashwin C B</b><br>
 </p>
 
-🧑🏻‍💼 <b>Young Professional</b><br>
+🧑🏻‍💼Young Professional<br>
   
 🔭 CSE undergrad exploring coding & technology 🤖<br>
 
