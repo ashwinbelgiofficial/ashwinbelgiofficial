@@ -44,9 +44,9 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ashwinbelgiofficial&theme=dark&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&bg_color=00BFFF&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashwinbelgiofficial&theme=dark&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&background=00BFFF&border=0A192F)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinbelgiofficial&theme=dark&title_color=00BFFF&text_color=FFFFFF&bg_color=00BFFF&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=ashwinbelgiofficial&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&bg_color=0000FF&hide_border=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashwinbelgiofficial&theme=dark&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&background=0000FF&border=0A192F)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinbelgiofficial&theme=dark&title_color=00BFFF&text_color=00BFFF&bg_color=0000FF&hide_border=false&layout=compact)  
 
 ---
 
@@ -56,7 +56,7 @@
 ---
 
 ### ✍ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&combine_color=001F54&text_color=00BFFF)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&combine_color=0000FF&text_color=00BFFF)
 
 ---
 ### 🔝 Top Contributed Repo
