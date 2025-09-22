@@ -78,11 +78,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ashwinbelgiofficial&icon=3&color=00BFFF" />
-  </a>
-</p>
 
 <!-- Footer Banner -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&fontColor=001F54&animation=twinkling)
