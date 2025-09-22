@@ -44,9 +44,13 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ashwinbelgiofficial&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&bg_color=0000FF&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashwinbelgiofficial&theme=dark&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&background=0000FF&border=0A192F)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinbelgiofficial&theme=dark&title_color=00BFFF&text_color=00BFFF&bg_color=0000FF&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=ashwinbelgiofficial&theme=dark&title_color=FFD700&text_color=FFD700&icon_color=FFD700&hide_border=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashwinbelgiofficial&theme=dark&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinbelgiofficial&theme=dark&title_color=FFD700&text_color=FFD700&hide_border=false&layout=compact)  
+
+
+
+
 
 ---
 
