@@ -57,7 +57,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinbelgiofficial&theme=tokyonight&margin-w=15&column=5" />
+  
+ ![](https://github-profile-trophy.vercel.app/?username=ashwinbelgiofficial&theme=algolia&combine-frame=true&margin-w=15&column=5)
+
 </p>
 
 ---
