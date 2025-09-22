@@ -11,17 +11,17 @@
   <b>Ashwin C B</b><br>
 </p>
 
-.🧑🏻‍💼Young Professional<br>
+●🧑🏻‍💼Young Professional<br>
   
-.🔭 CSE undergrad exploring coding & technology 🤖<br>
+●🔭 CSE undergrad exploring coding & technology 🤖<br>
 
-.👯 Open to hackathons & innovative projects<br>
+●👯 Open to hackathons & innovative projects<br>
 
-.🤝 Seeking guidance on advanced coding practices 🧑‍💻<br>
+●🤝 Seeking guidance on advanced coding practices 🧑‍💻<br>
 
-.🌱 Learning how to turn ☕ into clean, efficient code<br>
+●🌱 Learning how to turn coffee into clean code<br>
 
-.⚡ Fun fact: My Git commits tell a better story than my diary ✨ 
+●⚡ Fun fact: My Git commits tell a better story than my diary ✨ 
 
 </div>
 
@@ -44,9 +44,9 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ashwinbelgiofficial&theme=dark&title_color=00BFFF&text_color=00BFFF&icon_color=00BFFF&bg_color=001F54&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashwinbelgiofficial&theme=dark&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&background=001F54&border=0A192F)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinbelgiofficial&theme=dark&title_color=00BFFF&text_color=00BFFF&bg_color=001F54&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=ashwinbelgiofficial&theme=dark&title_color=00BFFF&text_color=FFFFFF&icon_color=00BFFF&bg_color=00BFFF&hide_border=false&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashwinbelgiofficial&theme=dark&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&background=00BFFF&border=0A192F)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinbelgiofficial&theme=dark&title_color=00BFFF&text_color=FFFFFF&bg_color=00BFFF&hide_border=false&layout=compact)  
 
 ---
 
