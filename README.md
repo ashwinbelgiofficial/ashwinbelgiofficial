@@ -8,19 +8,19 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/ashwinbelgiofficial" width="160" style="border-radius:50%; border:4px solid #00BFFF;" /><br>
   <b>Ashwin C B</b><br>
-</p>
+
 
 ◉ 🚀 CSE undergrad passionate about coding, technology, and building things that matter <br>
-
+\n
 ◉ Open to hackathons, open-source, and innovative collaborations <br>
-
+\n
 ◉ Always sharpening my skills in advanced  coding practices and software design🧑🏻‍💻 <br>
- 
+ \n
 ◉ Techie with an artistic side — love blending creativity with logic 🎨 <br>
-
+\n
 ◉ ⚡ Fun fact: My commit history is a better autobiography than my diary <br>
 
-
+</p>
 </div>
 
 ---
