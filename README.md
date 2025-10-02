@@ -10,15 +10,15 @@
   <b>Ashwin C B</b><br>
 </p>
 
-◉ 🚀 CSE undergrad passionate about coding,       technology, and building things that matter
+◉ 🚀 CSE undergrad passionate about coding, technology, and building things that matter <br>
 
-◉ Open to hackathons, open-source, and innovative collaborations
+◉ Open to hackathons, open-source, and innovative collaborations <br>
 
-◉ Always sharpening my skills in advanced  coding practices and software design🧑🏻‍💻
+◉ Always sharpening my skills in advanced  coding practices and software design🧑🏻‍💻 <br>
  
-◉ Techie with an artistic side — love blending creativity with logic 🎨 
+◉ Techie with an artistic side — love blending creativity with logic 🎨 <br>
 
-◉ ⚡ Fun fact: My commit history is a better autobiography than my diary
+◉ ⚡ Fun fact: My commit history is a better autobiography than my diary <br>
 
 
 </div>
