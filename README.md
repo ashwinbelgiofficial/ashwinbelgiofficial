@@ -10,12 +10,16 @@
   <b>Ashwin C B</b><br>
 </p>
 
-● 🧑🏻‍💼 Young Professional <br>  
-● 🔭 CSE undergrad exploring coding & technology 🤖 <br>  
-● 👯 Open to hackathons & innovative projects <br>  
-● 🤝 Seeking guidance on advanced coding practices 🧑‍💻 <br>  
-● 🌱 Learning how to turn coffee into clean code <br>  
-● ⚡ Fun fact: My Git commits tell a better story than my diary ✨  
+◉ 🚀 CSE undergrad passionate about coding,       technology, and building things that matter
+
+◉ Open to hackathons, open-source, and innovative collaborations
+
+◉ Always sharpening my skills in advanced  coding practices and software design🧑🏻‍💻
+ 
+◉ Techie with an artistic side — love blending creativity with logic 🎨 
+
+◉ ⚡ Fun fact: My commit history is a better autobiography than my diary
+
 
 </div>
 
