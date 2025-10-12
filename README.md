@@ -19,10 +19,10 @@
 &nbsp; &nbsp;&nbsp;🎨Outside of coding, I enjoy blending artistic design eith technology to create engaging user experiances. <br>
 
 
+<br><br><br><br><br>
 
----
 
-## 🌐 Connect with Me
+<h2>🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://github.com/ashwinbelgiofficial"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a> &nbsp;
   <a href="https://linkedin.com/in/ashwin-c-b-604239380"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> &nbsp;
@@ -30,9 +30,9 @@
   <a href="https://discord.gg/3jqARjy3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
 </p>
 
----
+<br><br><br><br><br>
 
-## 📖 Education
+ <h2>📖 Education</h2>
 <p align="center">
   <ul>
     <li>
