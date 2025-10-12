@@ -34,8 +34,6 @@
 
 ## 📖 Education
 <p align="center">
-<section id="education">
-  <h2>Education</h2>
   <ul>
     <li>
       🎓 <a href="https://cce.edu.in/" target="_blank" rel="noopener noreferrer">
