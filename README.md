@@ -12,11 +12,11 @@
 
 👋🏻Hi, I'm Ashwin C B, a <b> computer Science  undergraduate </b> passionate about coding, technology, and creative problem-solving. <br>
 
-</t>💻I enjoy developing impactful projects, exploring open-source contributions, and continuously learning advanced software pratices. <br>
+<br> &nbsp 💻I enjoy developing impactful projects, exploring open-source contributions, and continuously learning advanced software pratices. <br>
 
-</t>🚀 I'm particularly intrested in hackathons, AI-driven applications, and innovative collaborations that bridge logic and creativity.<br>
+<br>🚀 I'm particularly intrested in hackathons, AI-driven applications, and innovative collaborations that bridge logic and creativity.<br>
 
-🎨Outside of coding, I enjoy blending artistic design eith technology to create engaging user experiances. <br>
+<br> &nbsp 🎨Outside of coding, I enjoy blending artistic design eith technology to create engaging user experiances. <br>
 
 </div>
 
@@ -24,9 +24,9 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/ashwinbelgiofficial"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ashwin-c-b-604239380"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ashwinbelgi.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ashwinbelgiofficial"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a> &nbsp
+  <a href="https://linkedin.com/in/ashwin-c-b-604239380"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> &nbsp
+  <a href="mailto:ashwinbelgi.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a> &nbsp
   <a href="https://discord.gg/3jqARjy3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
 </p>
 
@@ -54,8 +54,6 @@
       <span>2011–2023 | Grade: 90.00%</span>
     </li><br>
   </ul>
-</section>
-
 </p>
 
 ---
