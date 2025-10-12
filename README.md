@@ -12,11 +12,11 @@
 
 👋🏻Hi, I'm Ashwin C B, a <b> computer Science  undergraduate </b> passionate about coding, technology, and creative problem-solving. <br>
 
-<br> &nbsp; 💻I enjoy developing impactful projects, exploring open-source contributions, and continuously learning advanced software pratices. <br>
+ &nbsp; 💻I enjoy developing impactful projects, exploring open-source contributions, and continuously learning advanced software pratices. <br>
 
-<br>🚀 I'm particularly intrested in hackathons, AI-driven applications, and innovative collaborations that bridge logic and creativity.<br>
+🚀 I'm particularly intrested in hackathons, AI-driven applications, and innovative collaborations that bridge logic and creativity.<br>
 
-<br> &nbsp; 🎨Outside of coding, I enjoy blending artistic design eith technology to create engaging user experiances. <br>
+&nbsp; 🎨Outside of coding, I enjoy blending artistic design eith technology to create engaging user experiances. <br>
 
 </div>
 
