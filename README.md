@@ -18,7 +18,7 @@
 <br>
 &nbsp; &nbsp;&nbsp;🎨Outside of coding, I enjoy blending artistic design eith technology to create engaging user experiances. <br>
 
-</div>
+
 
 ---
 
@@ -55,7 +55,7 @@
     </li><br>
   </ul>
 </p>
-
+</div>
 ---
 
 ## 💻 Tech Stack
