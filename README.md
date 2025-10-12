@@ -43,14 +43,12 @@
       </a> — <em>B.Tech in Computer Science and Engineering</em><br>
       <span>2025 – Present</span>
     </li>
-
     <li>
       🏫 <a href="https://www.stantonyshssmala.com/" target="_blank" rel="noopener noreferrer">
         St. Antony's HSS, Mala
       </a> — <em>Higher Secondary Education</em><br>
       <span>2023 – 2025 · Grade: 89.92%</span>
     </li>
-
     <li>
       📘 <a href="https://holychildicsecentralschool.com/" target="_blank" rel="noopener noreferrer">
         Holy Child ICSE Central School, Snehagiri
