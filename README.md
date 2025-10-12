@@ -50,7 +50,7 @@
     <li>
       📘 <a href="https://holychildicsecentralschool.com/" target="_blank" rel="noopener noreferrer">
         Holy Child ICSE Central School, Snehagiri
-      </a> — <em>ICSE</em><br>
+      </a> — <em>Indian Certificate for Secondary Education</em><br>
       <span>2011–2023 | Grade: 90.00%</span>
     </li><br>
   </ul>
