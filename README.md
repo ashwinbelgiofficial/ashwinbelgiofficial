@@ -17,7 +17,6 @@
 &nbsp;🚀 I'm particularly intrested in hackathons, AI-driven applications, and innovative collaborations that bridge logic and creativity.<br>
 <br>
 &nbsp; &nbsp;&nbsp;🎨Outside of coding, I enjoy blending artistic design eith technology to create engaging user experiances. <br>
-
 <br><br>
 <h2>🌐 Connect with Me</h2>
 <p align="center">
@@ -26,9 +25,7 @@
   <a href="mailto:ashwinbelgi.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a> &nbsp;
   <a href="https://discord.gg/3jqARjy3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
 </p>
-
 <br><br>
-
  <h2>📖 Education</h2>
 <p align="center">
   <ul>
