@@ -34,10 +34,33 @@
 
 ## 📖 Education
 <p align="center">
-- [Christ College of Engineering](https://cce.edu.in/) - B.Tech in Computer Science and Engineering, 2025 - Present
-- [St. Antony's HSS, Mala](https://www.stantonyshssmala.com/) - HSS, 2023 - 2025
-- [Holy Child ICSE Central School, Snehagiri](https://holychildicsecentralschool.com/) - ICSE, 2011 - 2023
+<section id="education">
+  <h2>Education</h2>
+  <ul>
+    <li>
+      🎓 <a href="https://cce.edu.in/" target="_blank" rel="noopener noreferrer">
+        Christ College of Engineering
+      </a> — <em>B.Tech in Computer Science and Engineering</em><br>
+      <span>2025 – Present</span>
+    </li>
 
+    <li>
+      🏫 <a href="https://www.stantonyshssmala.com/" target="_blank" rel="noopener noreferrer">
+        St. Antony's HSS, Mala
+      </a> — <em>Higher Secondary Education</em><br>
+      <span>2023 – 2025 · Grade: 89.92%</span>
+    </li>
+
+    <li>
+      📘 <a href="https://holychildicsecentralschool.com/" target="_blank" rel="noopener noreferrer">
+        Holy Child ICSE Central School, Snehagiri
+      </a> — <em>ICSE</em><br>
+      <span>2011 – 2023 · Grade: 90.00%</span>
+    </li>
+  </ul>
+</section>
+
+</p>
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
