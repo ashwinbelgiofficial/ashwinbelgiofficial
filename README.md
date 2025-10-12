@@ -20,9 +20,11 @@
 </div>
 ---
 
-<div style="border: 2px solid #00BFFF; padding: 10px; border-radius: 8px;">
+
 ### 📖 Education
+<div style="border: 2px solid #00BFFF; padding: 10px; border-radius: 8px;">
 <p align="center">
+  
   <ul>
     <li>
       🎓 <a href="https://cce.edu.in/" target="_blank" rel="noopener noreferrer">
@@ -48,8 +50,9 @@
 <br>
 ---
 
+
+### 🌐Connect with Me
  <div style="border: 2px solid #00BFFF; padding: 10px; border-radius: 8px;"> 
-###🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/ashwinbelgiofficial"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a> &nbsp;
   <a href="https://linkedin.com/in/ashwin-c-b-604239380"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> &nbsp;
