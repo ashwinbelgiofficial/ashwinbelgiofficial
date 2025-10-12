@@ -24,10 +24,10 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/ashwinbelgiofficial"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a><br>
-  <a href="https://linkedin.com/in/ashwin-c-b-604239380"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a><br>
-  <a href="mailto:ashwinbelgi.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a><br>
-  <a href="https://discord.gg/3jqARjy3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a><br>
+  <a href="https://github.com/ashwinbelgiofficial"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ashwin-c-b-604239380"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ashwinbelgi.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/3jqARjy3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
 </p>
 
 ---
@@ -39,20 +39,20 @@
       🎓 <a href="https://cce.edu.in/" target="_blank" rel="noopener noreferrer">
         Christ College of Engineering
       </a> — <em>B.Tech in Computer Science and Engineering</em><br>
-      <span>2025 – Present</span>
-    </li>
+      <span>2025–Present</span>
+    </li><br>
     <li>
       🏫 <a href="https://www.stantonyshssmala.com/" target="_blank" rel="noopener noreferrer">
         St. Antony's HSS, Mala
       </a> — <em>Higher Secondary Education</em><br>
-      <span>2023 – 2025 · Grade: 89.92%</span>
-    </li>
+      <span>2023–2025 | Grade: 89.92%</span>
+    </li><br>
     <li>
       📘 <a href="https://holychildicsecentralschool.com/" target="_blank" rel="noopener noreferrer">
         Holy Child ICSE Central School, Snehagiri
       </a> — <em>ICSE</em><br>
-      <span>2011 – 2023 · Grade: 90.00%</span>
-    </li>
+      <span>2011–2023 | Grade: 90.00%</span>
+    </li><br>
   </ul>
 </section>
 
