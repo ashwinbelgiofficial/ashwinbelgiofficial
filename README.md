@@ -10,7 +10,7 @@
   <b>Ashwin C B</b><br>
 </p>
 
-&nbsp;👋🏻Hi, I'm Ashwin C B, a <b> computer Science  undergraduate Student</b> passionate about coding, technology, and creative problem-solving. <br>
+&nbsp;👋🏻Hi, I'm Ashwin C B, a <b> Computer Science Undergraduate Student</b> passionate about coding, technology, and creative problem-solving. <br>
 <br>
  &nbsp;&nbsp;&nbsp; 💻I enjoy developing impactful projects, exploring open-source contributions, and continuously learning advanced software pratices. <br>
 <br>
