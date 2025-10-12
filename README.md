@@ -24,13 +24,19 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/ashwinbelgiofficial"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ashwin-c-b-604239380"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ashwinbelgi.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.gg/3jqARjy3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://github.com/ashwinbelgiofficial"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a><br>
+  <a href="https://linkedin.com/in/ashwin-c-b-604239380"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a><br>
+  <a href="mailto:ashwinbelgi.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a><br>
+  <a href="https://discord.gg/3jqARjy3"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a><br>
 </p>
 
 ---
+
+## 📖 Education
+<p align="center">
+- [Christ College of Engineering](https://cce.edu.in/) - B.Tech in Computer Science and Engineering, 2025 - Present
+- [St. Antony's HSS, Mala](https://www.stantonyshssmala.com/) - HSS, 2023 - 2025
+- [Holy Child ICSE Central School, Snehagiri](https://holychildicsecentralschool.com/) - ICSE, 2011 - 2023
 
 ## 💻 Tech Stack
 <p align="center">
@@ -62,13 +68,6 @@
  ![](https://github-profile-trophy.vercel.app/?username=ashwinbelgiofficial&theme=algolia&no-frame=true&margin-w=15&column=5)
 
 
-</p>
-
----
-
-### ✍ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&color=00BFFF" />
 </p>
 
 ---
